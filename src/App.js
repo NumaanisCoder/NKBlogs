@@ -14,7 +14,7 @@ function App() {
     </nav>
     <br />
     <div className="p-2" id="container">
-      <h2 className="text-3xl text-blue-700 text-center font-extrabold">Gaming News</h2>
+      <h2 className="text-3xl text-blue-700 text-center font-extrabold">Gaming New</h2>
       <br />
       <h3 className="text-xl text-center font-bold">Sony PlayStation 5 Goes for Pre-Order Again on February 22 at 12 Noon</h3>
       <br />
