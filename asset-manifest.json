@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NKBlogs/static/css/main.06c3aa87.css",
-    "main.js": "/NKBlogs/static/js/main.268b0deb.js",
+    "main.css": "/NKBlogs/static/css/main.3d9575e6.css",
+    "main.js": "/NKBlogs/static/js/main.94618c65.js",
     "static/js/787.da12b7e7.chunk.js": "/NKBlogs/static/js/787.da12b7e7.chunk.js",
     "index.html": "/NKBlogs/index.html",
-    "main.06c3aa87.css.map": "/NKBlogs/static/css/main.06c3aa87.css.map",
-    "main.268b0deb.js.map": "/NKBlogs/static/js/main.268b0deb.js.map",
+    "main.3d9575e6.css.map": "/NKBlogs/static/css/main.3d9575e6.css.map",
+    "main.94618c65.js.map": "/NKBlogs/static/js/main.94618c65.js.map",
     "787.da12b7e7.chunk.js.map": "/NKBlogs/static/js/787.da12b7e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06c3aa87.css",
-    "static/js/main.268b0deb.js"
+    "static/css/main.3d9575e6.css",
+    "static/js/main.94618c65.js"
   ]
 }
